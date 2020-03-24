@@ -17,7 +17,7 @@ Pattern matching is particularly usefull for adding a range to your answers as i
 
 Consider the Question entered below.  Note I have used two variables [I] and [P] to represent the current and power, respectively.  Ensure that you select the partial marks button before goign on to the enxt screen, else if the student gets the current wrong, then power will auto matically be marked wrong.<br>
 <div style="float: left  color: blue font-style: italic">
-<img src="./images/FIMB_Entry.png" alt="Figure 1. Screenshot for the question and setup required for the Fill in Multiple Blanks Question."  width="600"/> <figcaption > <I><b>Figure 1: </b></I>Screenshot for the question and setup required for the Fill in Multiple Blanks Question.</figcaption ></div><br><br>
+<img src="./images/FIMB_Entry.png" alt="Figure 1. Screenshot for the question and setup required for the Fill in Multiple Blanks Question."  align="center" width="600"/> <figcaption > <I><b>Figure 1: </b></I>Screenshot for the question and setup required for the Fill in Multiple Blanks Question.</figcaption ></div><br><br>
 
 
 
@@ -26,7 +26,7 @@ At the next screen I show the various pattern matching forms I have used fo the 
 <b> Importantly note</b> that each of the questions being asked is sharing the same question dataset (the voltage and the current) so that complex question can be asked based on a single system, figure or plot. <br><br>
 
 <div style="float: left  color: blue font-style: italic">
-<img src="./images/FIMB_Answers.png" alt="Figure 2. Screenshot fo the patterns entered to allow evaluation of both current and power within a single question."  width="600"/> <figcaption > <I><b>Figure 1: </b></I> Screenshot fo the patterns entered to allow evaluation of both current and power within a single question. </figcaption ></div>
+<img src="./images/FIMB_Answers.png" alt="Figure 2. Screenshot fo the patterns entered to allow evaluation of both current and power within a single question." align="center" width="600"/> <figcaption > <I><b>Figure 1: </b></I> Screenshot fo the patterns entered to allow evaluation of both current and power within a single question. </figcaption ></div>
 <br><br>
 
 
@@ -41,7 +41,7 @@ At the next screen I show the various pattern matching forms I have used fo the 
  
  
  <div style="float: left  color: blue font-style: italic">
-<img src="./images/GreekSymbols.png" alt="Figure 3. Table of HTML Codes useful for Engineering/Science type questions. " align="left" width="400"/> <figcaption > <I><b>Figure 3: </b></I>Table of HTML Codes useful for Engineering/Science type questions. </figcaption > </div><br>
+<img src="./images/GreekSymbols.png" alt="Figure 3. Table of HTML Codes useful for Engineering/Science type questions. " align="center" width="400"/> <figcaption > <I><b>Figure 3: </b></I>Table of HTML Codes useful for Engineering/Science type questions. </figcaption > </div><br>
 <br><br><br><br>
 <br><br>
 <br><br>
