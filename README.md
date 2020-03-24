@@ -41,7 +41,13 @@ At the next screen I show the various pattern matching forms I have used fo the 
  
  
  <div style="float: left  color: blue font-style: italic">
-<img src="./images/GreekSymbols.png" alt="Figure 3. Table of HTML Codes useful for Engineering/Science type questions. " align="left" width="400"/> <figcaption > <I><b>Figure 3: </b></I>Table of HTML Codes useful for Engineering/Science type questions. </figcaption > </div><br><br><br>
+<img src="./images/GreekSymbols.png" alt="Figure 3. Table of HTML Codes useful for Engineering/Science type questions. " align="left" width="400"/> <figcaption > <I><b>Figure 3: </b></I>Table of HTML Codes useful for Engineering/Science type questions. </figcaption > </div><br>
+<br><br><br><br>
+<br><br>
+<br><br>
+
+
+
 
 
 
