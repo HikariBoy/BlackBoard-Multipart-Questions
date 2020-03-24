@@ -46,7 +46,12 @@ At the next screen I show the various pattern matching forms I have used fo the 
 <br><br>
 <br><br>
 <br><br>
-
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 
 
 
@@ -54,8 +59,7 @@ At the next screen I show the various pattern matching forms I have used fo the 
 ### The process in detail:
 
 <div>
-<br><br>
-<br><br>
+
 To insert the symbol using the process shown below.  In the text field of your question, <b>STEP 1:</b> Insert your text, then <b>STEP 2:</b> click the HTML button which brings up a HTML editor.  <b>STEP 3: </b> place your cursor whereever you want the symbol and type the code listed in the table above (in this case I want an &Omega; symbol so I enter <b>\&Omega;</b> then complete the editing by <b>STEP 4:</b> clicking the UPDATE button.  The desired symbol shoudl now be entered in your question.  If you need more of this type of symbol in the question, you don't need to repeat the process - just use cut-and-paste (ctrl-C then ctrl-V) <br><br>
 </div>
 
