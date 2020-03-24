@@ -28,7 +28,7 @@ At the next screen I show the various pattern matching forms I have used for the
 
 <div style="float: left  color: blue font-style: italic">
 <img src="./images/FIMB_Answers.png" alt="Figure 2. Screenshot fo the patterns entered to allow evaluation of both current and power within a single question." align="center" width="600"/> </div>
-<figcaption > <I><b>Figure 1: </b></I> Screenshot fo the patterns entered to allow evaluation of both current and power within a single question. </figcaption >
+<figcaption > <I><b>Figure 2: </b></I> Screenshot fo the patterns entered to allow evaluation of both current and power within a single question. </figcaption >
 <br><br>
 
 
