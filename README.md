@@ -1,7 +1,7 @@
 # BlackBoard-Multipart-Questions
  Often in engineering and science based units, there is a need for students to demonstrate proficiency at completing detailed, multi-part questions.  This github describes how Blackboard's "Fill in Multiple Blanks Question" type questions can be used for just such a question.
  
- ## Creating the basic 
+ ## The value of "Fill in Multiple Blanks Questions" and Pattern Matching
  Blackboard Help provides the [basics for creating <b>Fill in Multiple Blanks Questions </b>](https://help.blackboard.com/Learn/Instructor/Tests_Pools_Surveys/Question_Types/Fill_in_Multiple_Blanks_Questions).  The key here is in understanding how to set up the answers to use Pattern Match which uses a [regular expression](https://www.rexegg.com/regex-quickstart.html) to evaluate an entered value. There are some very useful sites that allow you to experiment with the [evaluation of regular expressions](https://regex101.com/).  There are several other options provided in the pull down menu when entering the answers on a Blackboard  as indicated in the image right.
  <img src="./images/FIMB_PullDown.png" alt="Pull Down menu options for Fill in Multiple Blanks type questions."  align="right" width="300"/>
  These include <b>Exact Match</b> which will match only the defined text string, <b>Contains</b> which will search the string text entered by the student for the sub-string given as the answer, and finally <b>Pattern Match</b>.  Only <b>Pattern Match</b> will allow the student's response to be a string, number (float or integer), or both a number and string (which might be used for a number containing a unit).  It could also allow a response to be entered as a vector (3x+5y) and evaluated correctly.  This makes the use of  <b>Pattern Match</b> extremely powerfull in engineering ans schience based questions.  <b>So what's the catch ? </b> Well:
@@ -47,8 +47,8 @@ At the next screen I show the various pattern matching forms I have used for the
 <b> Importantly, note</b> that each of the questions being asked is sharing the same question dataset (the voltage and the current) so that complex, multi-part questions can be asked based on a single system, figure or plot. <br><br>
 
 <div style="float: left  color: blue font-style: italic">
-<img src="./images/FIMB_Answers.png" alt="Figure 2. Screenshot fo the patterns entered to allow evaluation of both current and power within a single question." align="center" width="600"/> </div>
-<figcaption > <I><b>Figure 2: </b></I> Screenshot fo the patterns entered to allow evaluation of both current and power within a single question. </figcaption >
+<img src="./images/FIMB_Answers.png" alt="Figure 2. Screenshot of the patterns entered to allow evaluation of both current and power within a single question." align="center" width="600"/> </div>
+<figcaption > <I><b>Figure 2: </b></I> Screenshot of the patterns entered to allow evaluation of both current and power within a single question. </figcaption >
 <br><br>
 
 
